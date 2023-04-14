@@ -41,7 +41,22 @@
     <maven-javadoc-plugin.version>3.0.0</maven-javadoc-plugin.version>
   </properties>
 
+  
   <dependencies>
+    <dependency>
+      <groupId>io.cucumber</groupId>
+      <artifactId>cucumber-java</artifactId>
+      <version>${cucumber.version}</version>
+      <scope>test</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>io.cucumber</groupId>
+      <artifactId>cucumber-junit</artifactId>
+      <version>${cucumber.version}</version>
+      <scope>test</scope>
+    </dependency>
+
 
     <dependency>
       <groupId>org.mockito</groupId>
@@ -59,6 +74,7 @@
     </dependency>
 
   </dependencies>
+
 
   <build>
     <plugins>
