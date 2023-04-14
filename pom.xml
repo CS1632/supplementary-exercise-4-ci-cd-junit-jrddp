@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>io.github.wonsunahn</groupId>
+  <groupId>io.github.jrddp</groupId>
   <artifactId>cs1632-cicd-junit-jap300</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
@@ -22,6 +22,10 @@
     <developer>
       <name>Wonsun Ahn</name>
       <email>wahn@pitt.edu</email>
+      <organization>University of Pittsburgh</organization>
+      <organizationUrl>https://www.pitt.edu/</organizationUrl>
+    </developer>
+      <name>Jared Peters</name>
       <organization>University of Pittsburgh</organization>
       <organizationUrl>https://www.pitt.edu/</organizationUrl>
     </developer>
