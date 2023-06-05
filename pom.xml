@@ -48,7 +48,7 @@
   </distributionManagement>
   
   <properties>
-    <cucumber.version>7.11.2</cucumber.version>
+    <cucumber.version>7.12.1</cucumber.version>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
